@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html * { -webkit-text-size-adjust: none; }
+
+body {
+    height: 100%;
+    overflow-x: hidden;
+}
+
+span {
+    display: inline-block;
+}
+
+.ch-header {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+#computer-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    opacity: 0.8;
+} 
+
+.ch-bg-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.header-text {
+    position: relative;
+    z-index: 10;
+}
+
+.ch-header-content {
+    font-size: 1.4rem;
+    z-index: 2;
+    margin: 0 auto;
+}
+
+.ch-header-content h1 {
+    margin-bottom: 1rem;
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: none;
+    color: rgb(193, 235, 255);
+}
+
+a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+.fa-github-square, .fa-linkedin {
+    color: #00c3f0;
+}
+
+.fa-github-square:hover, .fa-linkedin:hover {
+    color: #01acd3;
+}
+
+.makeBlue-text {
+    color: #00c3f0;
+}

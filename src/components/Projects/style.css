@@ -1,0 +1,95 @@
+.card-img-top {
+    object-fit: cover;
+}
+
+.ch-resume {
+    position: relative;
+    text-align: center;
+}
+
+#resume-content{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#ch-resume-bg {
+    width: 100%;
+    height: auto;
+}
+
+.ch-proj-btn{
+    background-color: #00c3f0;
+    color: white;
+}
+
+.ch-proj-btn:hover, .ch-proj-btn:active{
+    background-color: #01b5dd;
+    color: white;
+}
+
+.ch-section {
+    position: relative;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background: #00c3f0;
+    color: white;
+    width: 100vw;
+}
+
+.ch-form {
+    width: 100%;
+    height: auto;
+    color: #00c3f0;
+}
+
+.ch-form::placeholder {
+    color: #00c3f0;
+    opacity: 1;
+  }
+
+.contact-btn {
+    position: relative;
+    width: 80%;
+    height: 20%;
+    font-size: 2em;
+    text-align: center;
+    background-color: transparent;
+    color: white;
+    border-color: white;
+}
+
+.contact-btn:hover{
+    background-color: white;
+    color: #00c3f0;
+    border-color: rgb(230, 230, 230);
+}
+
+.contact-btn:focus, .contact-btn:active {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+textarea:focus, input:focus {
+    color: #00c3f0;
+}
+
+input, select, textarea{
+    color: #00c3f0;
+}
+
+input[type=text]:focus {
+    color: #00c3f0;
+  }
+
+.submitBtn {
+    color: white;
+    background-color: transparent;
+    border-color: white;
+}
+
+.submitBtn:hover {
+    color: #00c3f0;
+    background-color: white;
+    border-color: white;
+}

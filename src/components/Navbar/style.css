@@ -1,0 +1,9 @@
+#ch-header-logo {
+    width: 40%;
+    height: auto;
+}
+
+.navbar{
+    position:relative;
+    z-index: 11;
+}

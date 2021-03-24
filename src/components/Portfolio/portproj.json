@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Stay In App",
+        "img": "/images/portfolio/si-screenshot.png",
+        "live": "https://stayingin.herokuapp.com/",
+        "repo": "https://github.com/CalebTheCreative/Project-2"
+    },
+    {
+        "id": 2,
+        "title": "Weather Dashboard",
+        "img": "/images/portfolio/wdb-screenshot.png",
+        "live": "https://calebthecreative.github.io/WeatherApp/",
+        "repo": "https://github.com/CalebTheCreative/WeatherApp"
+    },
+    {
+        "id": 3,
+        "title": "Eat Da Burger",
+        "img": "/images/portfolio/edb-screenshot.png",
+        "live": "https://shielded-scrubland-69295.herokuapp.com/burgers",
+        "repo": "https://github.com/CalebTheCreative/burger"
+    },
+    {
+        "id": 4,
+        "title": "React Employee Directory",
+        "img": "/images/portfolio/et-screenshot.png",
+        "live": "https://emp-directory-ch.herokuapp.com/",
+        "repo": "https://github.com/CalebTheCreative/react-employee-directory"
+    },
+    {
+        "id": 5,
+        "title": "Code Quiz",
+        "img": "/images/portfolio/cq-screenshot.png",
+        "live": "https://calebthecreative.github.io/Code-Quiz/",
+        "repo": "https://github.com/CalebTheCreative/Code-Quiz"
+    },
+    {
+        "id": 6,
+        "title": "Budget Tracker",
+        "img": "/images/portfolio/bt-screenshot.png",
+        "live": "https://gentle-everglades-71562.herokuapp.com/",
+        "repo": "https://github.com/CalebTheCreative/Online-Offline-Budget-Trackers"
+    }
+  ]

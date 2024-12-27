@@ -8,6 +8,6 @@ Hello! My name is Caleb Hopkins! Welcome to my GitHub Portfolio! If you have any
 
 For any questions, please contact me at:
 
-**Email:** calebhopkins@outlook.com
+**Email:** 
 
 **GitHub Profile:** [CalebTheCreative]("https://github.com/CalebTheCreative")
